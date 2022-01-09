@@ -1,5 +1,6 @@
 # Seja bem-vindo Dev. 🖖
 ### Eu sou Vinicius Kronemberger.
+<p> Sou um aficionado por tecnologia e binários. kkkk</p>
 <br>
 
 <div>
