@@ -5,8 +5,8 @@
 
 <div>
     <a href= "https://github.com/CasttCK">
-    <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=casttck&show_icons=true&theme=dracula">
-    <img height= "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=casttck&layout=compact&theme=dracula">
+    <img height= "180em" src= "https://github-readme-stats-ten-lovat-43.vercel.app/api?username=casttck&show_icons=true&theme=dracula">
+    <img height= "180em" src= "https://github-readme-stats-ten-lovat-43.vercel.app/api/top-langs/?username=casttck&layout=compact&theme=dracula">
 </div>
 <br>
 <br>
