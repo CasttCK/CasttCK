@@ -1,4 +1,5 @@
-# Seja bem-vindo Dev. 🖖
+# ![Bem-vindo ao perfil!](https://github.com/CasttCK/CasttCK/blob/main/dev_github.png)
+
 ### Eu sou Vinicius Kronemberger.
 <p> Sou um aficionado por tecnologia e binários. kkkk</p>
 <br>
