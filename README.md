@@ -1,43 +1,48 @@
 # ![Bem-vindo ao perfil!](https://github.com/CasttCK/CasttCK/blob/main/dev_github.png)
 
-### Eu sou Vinicius Kronemberger.
-<p> Sou um aficionado por tecnologia e binários. kkkk</p>
+## Hello, there! 🙃
+
+Vinicius is a software developer and a dedicated student of computer science. His interests include understanding the complexities of how things work and examining the many ways in which technology is used in different spheres of society. Vinicius dives into the world of programming with a keen eye for detail and a hunger for information, always looking to improve his abilities and expand his horizons.
+
+Overall, Vinicius is adaptable and consistently works to develop both personally and professionally. Outside of programming, Vinicius works as a volunteer to assist others. He likes participating in sports and enjoying video games. 🙂
+
+## 🖥️ Technologies & ⚙️ Tools
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+<img align="right" alt="Gif Yoda" height="190" style="border-radius:50px;" src="https://c.tenor.com/W32JBtWNIiUAAAAd/baby-yoda-drink.gif">
+
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br>
+<br>
+<br>
 <br>
 
+## 💭 Preferred Quote
+
+> You miss 100% of the shots you don't take.
+>
+> **Michael Jordan**
+
+## 📱 Get in Touch
+
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5524988268294&text=Hello!)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-kronemberger-335170209/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini.kronemberger@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinikronemberger/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://ViniciusKronemberger#5165)
+
+## ⭐ GitHub Stats
 <div>
     <a href= "https://github.com/CasttCK">
     <img height= "180em" src= "https://github-readme-stats-ten-lovat-43.vercel.app/api?username=casttck&show_icons=true&theme=dracula">
     <img height= "180em" src= "https://github-readme-stats-ten-lovat-43.vercel.app/api/top-langs/?username=casttck&layout=compact&theme=dracula">
 </div>
-<br>
-<br>
-    
-<div><br>
-  <img align="center" alt="DotNet" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />        
-  <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />  
-  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="JQuery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-  <img align="right" alt="Gif Yoda" height="190" style="border-radius:50px;" src="https://c.tenor.com/W32JBtWNIiUAAAAd/baby-yoda-drink.gif">
-</div>
-<br>
-<br>
-<br>
-<br>
- 
-<div>
-<h1>Contato</h1>
-
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5524988268294)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://files.fm/f/qy3f2maum)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://files.fm/f/2judrjwnt)
-<br>
-    
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinikronemberger/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-c-kronemberger-335170209/)
-
-</div
