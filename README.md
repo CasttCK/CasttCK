@@ -20,7 +20,7 @@ Overall, Vinicius is adaptable and consistently works to develop both personally
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-<img align="right" alt="Gif Yoda" height="190" style="border-radius:50px;" src="https://c.tenor.com/W32JBtWNIiUAAAAd/baby-yoda-drink.gif">
+<img align="right" alt="Gif Yoda" height="160" style="border-radius:50px;" src="https://c.tenor.com/W32JBtWNIiUAAAAd/baby-yoda-drink.gif">
 <br>
 <br>
 <br>
