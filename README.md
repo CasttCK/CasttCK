@@ -31,6 +31,7 @@ Overall, Vinicius is adaptable and consistently works to develop both personally
 > You miss 100% of the shots you don't take.
 >
 > **Michael Jordan**
+<br>
 
 ## 📱 Get in Touch
 
